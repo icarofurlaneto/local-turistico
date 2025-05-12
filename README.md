@@ -51,6 +51,7 @@ Versão multilíngue (Português/Inglês)
 
 Seção de depoimentos de visitantes fictícios
 
+
 📄 Licença
 
 Este projeto é de uso livre e aberto para fins educacionais. Sinta-se à vontade para adaptar ou reutilizar o código.
