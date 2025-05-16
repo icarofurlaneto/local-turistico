@@ -2,7 +2,7 @@
 
 Este é um projeto de site turístico estático desenvolvido com foco educacional. Ele apresenta a cidade fictícia de **São Lorenzzo**, destacando seus pontos turísticos, culinária, história e cultura local.
 
-![Screenshot 2025-05-16 103706](https://github.com/user-attachments/assets/5bf3df75-d496-4c3d-9d2a-892da3409f40)
+![Screenshot 2025-05-16 112201](https://github.com/user-attachments/assets/12a40ec6-7556-4595-9349-14e040388dcd)
 
 ## 🧰 Tecnologias utilizadas
 
