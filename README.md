@@ -2,7 +2,7 @@
 
 Este é um projeto de site turístico estático desenvolvido com foco educacional. Ele apresenta a cidade fictícia de **São Lorenzzo**, destacando seus pontos turísticos, culinária, história e cultura local.
 
-![screenshot](https://icarofurlaneto.github.io/local-turistico/assets/screenshot.jpg) <!-- Substitua com a URL de uma imagem real do site, se houver -->
+![Screenshot 2025-05-16 103706](https://github.com/user-attachments/assets/5bf3df75-d496-4c3d-9d2a-892da3409f40)
 
 ## 🧰 Tecnologias utilizadas
 
